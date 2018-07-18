@@ -1,16 +1,22 @@
-# bupa-liver-disorder-project
+<h1>BUPA Liver Disorders Data Set Project - Summer 2018</h1>
 
-Project Instructions:
-1. Research background information about the data set and write a summary about
-it.
-2. Keep a list of references you used in completing the project.
-3. Download the data set and write some Python code to investigate it.
-4. Summarise the data set by, for example, calculating the maximum, minimum and
-mean of each column of the data set. A Python script will quickly do this for you.
-5. Write a summary of your investigations.
-6. Include supporting tables and graphics as you deem necessary.
+<h3>About this Project</h3>
+<p>This project is part of the Programming and Scripting module taught by Dr Ian McLoughlin in a HDip in Data Analytics course in GMIT. The task is to research ways to tackle the BUPA Liver Disorders data set using the Python programming techniques we have learned in the course so far.</p>  
 
-1. BUPA Liver Disorders Dataset Background Info:
+<hr>
+
+<h3>Project Instructions</h3>
+
+<ol><li>Research background information about the data set and write a summary about it.</li>
+<li>Keep a list of references you used in completing the project.</li>
+<li>Download the data set and write some Python code to investigate it.</li>
+<li>Summarise the data set by, for example, calculating the maximum, minimum and mean of each column of the data set. A Python script will quickly do this for you.</li>
+<li>Write a summary of your investigations.</li>
+<li>Include supporting tables and graphics as you deem necessary.</li></ol>
+
+<hr>
+
+<h3>BUPA Liver Disorders Dataset Background Info</h3>
 
 The UCI BUPA Liver Disorders data set The BUPA Liver Disorders data set was created by BUPA Medical Research and Development Ltd. (hereafter “BMRDL”) during the 1980s as part of a larger health-screening database [10].
 
@@ -29,3 +35,4 @@ The 7 columns of the data set represent the following data points:
 
 Source: [McDermott, J. & Forsyth, R.S. (2016). Diagnosing a disorder in a classification benchmark. Pattern Recognition Letters, 73, 41-43.]
 
+<hr>
