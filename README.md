@@ -36,3 +36,6 @@ The 7 columns of the data set represent the following data points:
 Source: [McDermott, J. & Forsyth, R.S. (2016). Diagnosing a disorder in a classification benchmark. Pattern Recognition Letters, 73, 41-43.]
 
 <hr>
+
+<h3>Methodology</h3>
+Download data set from https://archive.ics.uci.edu/ml/datasets/liver+disorders 
