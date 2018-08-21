@@ -33,5 +33,18 @@ print (df['sgot aspartate aminotransferase'].min())
 print (df['gammagt gamma-glutamyl transpeptidase'].min())
 print (df['Daily Alcohol Drinks'].min())
 
+#Create a Histogram showing mean corpuscular volume
+df.hist('mcv mean corpuscular volume')
+plt.title('Histogram of mean corpuscular volume') 
+plt.xlabel('results') 
+plt.ylabel('mean corpuscular volume')   
+plt.show() 
 
+# Create a Histogram for all data columns
+df.hist()
+plt.savefig('liver_disorder_histogram.png') 
+plt.show()
 
+# Create a line chart
+df.hist(x='mcv mean corpuscular volume', y='Daily Alcohol Drinks')
+plt.show()
