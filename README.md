@@ -39,3 +39,13 @@ Source: [McDermott, J. & Forsyth, R.S. (2016). Diagnosing a disorder in a classi
 
 <h3>Methodology</h3>
 Download data set from https://archive.ics.uci.edu/ml/datasets/liver+disorders 
+Run Python Script to calculate mean, minimum, and max value of each column
+Use Matplotlib to create charts from the data
+
+<h3>Sources</h3>
+Basic plots with Matplotlib tutorial https://www.youtube.com/watch?v=SiCyTcudoSE
+Matplotlib intro https://www.youtube.com/watch?v=q7Bo_J8x_dw&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF
+Pandas tutorial http://www.datasciencemadesimple.com/get-minimum-value-column-python-pandas/
+Pandas max value index https://stackoverflow.com/questions/39964558/pandas-max-value-index
+DataFrame help https://stackoverflow.com/questions/26047209/what-is-the-difference-between-a-pandas-series-and-a-single-column-dataframe
+
